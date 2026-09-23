@@ -28,7 +28,7 @@ Each finding is scored P0 (critical) to P3 (low) and delivered in a copy-paste-r
 
 Save/install the skill, then trigger it naturally, e.g.:
 
-> Audit rupeezy.in/margin-calculator — ecommerce site, Next.js frontend
+> Audit https://rupeezy.in/margin-trading-facility — ecommerce site, Next.js frontend
 
 ## Using it with ChatGPT
 
